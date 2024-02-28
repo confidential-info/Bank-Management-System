@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1698480159 source:d:\documents\c++\bank management system (project)\main.cpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+
